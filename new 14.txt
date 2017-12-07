@@ -1,0 +1,17 @@
+class CalculatorImpl implements Calculator 
+{
+int a,b;
+void setNumber(int num1,int num2)
+{
+a=num1;
+b=num2;
+System.out.println(add(a,b));
+System.out.println(sub(a,b));
+}
+int add()
+{
+return(a+b);
+}
+int sub(){
+return(a-b);
+}

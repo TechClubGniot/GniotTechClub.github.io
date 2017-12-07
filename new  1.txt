@@ -1,0 +1,31 @@
+import java.util.Scanner;
+Scanner key=new Scanner(System.in);
+nextInt()
+lang
+System
+
+diff b/w static import &import
+
+by default values are comes into integer
+
+
+employee
+
+employee code
+employee name
+
+getemployee()
+setemployee()
+
+overloaded constructor:
+
+1. #on behalf of position
+
+int string float
+string int float
+2. no. of count
+3. no. of value Datatype 
+
+TCS
+123@ION
+http://group.google.com/forum/#!forum/codebreakers11
